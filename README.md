@@ -15,12 +15,13 @@
 The **Windows 7 Essential Updates** well does what it say it does, It installs **.msu** files and also the **Windows Update Agent**
 ###### Below is an example of the Interface 
 <img width="713" alt="Capture" src="https://github.com/Sienna7002/windows-7-essential-updates-installer/assets/97623785/ce75fe47-0c08-49bf-a61b-02beab49720c">
+
 ## How do I install it?
 There are two options in installing this script, here are the following
-#### Website
+## Website
 ~~Using the link below, you can download this script along with the Installer files.~~
 `Website has not been updated with W7UPD yet, but watch this space! (Just use the Github method for now`
-#### GitHub
+## GitHub
 1. Go to the [releases](https://github.com/Sienna7002/windows-7-essential-updates-installer/releases) tab
 2. Download the latest version of the script
 3. Download the [update packages](https://drive.google.com/uc?export=download&id=1IzjKHSPj7Ke_nOcQXX9RuTF24VGadpiD)
