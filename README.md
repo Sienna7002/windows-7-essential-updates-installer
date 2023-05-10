@@ -10,7 +10,6 @@
 \____/(__)  (____/\_/\_/(__) (____)(____/  (__)\_)__)(____/ (__)\_/\_/\____/\____/(____)(__\_)
 
 ```
-(if you cant see it its ASCII art)
 ## What is it?
 The **Windows 7 Essential Updates** well does what it say it does, It installs **.msu** files and also the **Windows Update Agent**
 ###### Below is an example of the Interface 
