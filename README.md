@@ -19,7 +19,7 @@ The **Windows 7 Essential Updates** well does what it say it does, It installs *
 There are two options in installing this script, here are the following
 ## Website
 ~~Using the link below, you can download this script along with the update packages.~~
-`Website has not been updated with W7UPD yet, but watch this space! (Just use the Github method for now`
+`Website has not been updated with W7UPD yet, but watch this space! (Just use the Github method for now)`
 ## GitHub
 1. Go to the [releases](https://github.com/Sienna7002/windows-7-essential-updates-installer/releases) tab
 2. Download the latest version of the script
